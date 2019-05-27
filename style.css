@@ -1,0 +1,33 @@
+
+.jumbotron {
+    display: block;
+    background-image: url(ash-edmonds-494470-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.display-4 , .lead, p {
+    color: white;
+}
+
+.display-4 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 70px;
+}
+
+.lead {
+    position: relative;
+    top: 20px;
+    margin: 10px;
+    font-family: 'Lateef', cursive;
+    font-size: 30px;
+}
+
+.shop_now {
+    position: relative;
+    margin: 10px;
+}
+
+.card-deck {
+    align-items: center;
+}
